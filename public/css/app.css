@@ -1,0 +1,10 @@
+.plateau {
+    display: grid;
+    gap: 4px;
+    grid-template-columns: repeat(3, 80px);
+}
+
+.case {
+    height: 80px;
+    font-size: 2.5em;
+}
